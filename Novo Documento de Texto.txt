@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>Teste para acoplamento</title>
+</head>
+<body background="green">
+<div><row>
+<h1>teste</h1>
+</row>
+</div>
+</body>
+</html>
